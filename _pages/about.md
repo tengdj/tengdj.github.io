@@ -15,16 +15,11 @@ My research interests lie in Big Data, Computer Systems, Spatial Data Management
 
 # Research Projects
 
-## 3DPro: Querying Complex Three-dimensional Data with Progressive Compression and Refinement			     
-
-## GLINT: GPU-based Real-time Contact Tracing at Scale  	       
-
-## IDEAL: a Vector-Raster Hybrid Model for Efficient Spatial Queries over Complex Polygons		     
-
-## LSbM-tree: Re-enabling Buffer Caching in Data Management for Mixed Reads and Writes
-
-## Scalable Data Management for Big Medical Imaging Data		 	   
-
-## PAIS: Large Scale Spatial Data Management for Pathology Imaging        	   
+* 3DPro: Querying Complex Three-dimensional Data with Progressive Compression and Refinement			     
+* GLINT: GPU-based Real-time Contact Tracing at Scale  	       
+* IDEAL: a Vector-Raster Hybrid Model for Efficient Spatial Queries over Complex Polygons		     
+* LSbM-tree: Re-enabling Buffer Caching in Data Management for Mixed Reads and Writes
+* Scalable Data Management for Big Medical Imaging Data		 	   
+* PAIS: Large Scale Spatial Data Management for Pathology Imaging        	   
 
 
