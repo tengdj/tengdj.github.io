@@ -38,8 +38,8 @@ Work experience
 
 Publications
 ======
-* \[EDBT22\] Dejun Teng, Furqan Baig, Vo Hoang, Yanhui Liang, Jun Kong and Fusheng Wang: 3DPro: Querying Complex Three-Dimensional Data with Progressive Compression and Refinement. 25th International Conference on Extending Database Technology (EDBT 2022). pp. 104-117, March 29-April 1, 2022. Edinburgh, UK. (CCF B)
-* \[TSAS22\] Dejun Teng, Yanhui Liang, Hoang Vo, Jun Kong, and Fusheng Wang. "Efficient 3D Spatial Queries for Complex Objects." ACM Transactions on Spatial Algorithms and Systems (TSAS) 8, no. 2 (2022): 1-26.
+* [EDBT22] Dejun Teng, Furqan Baig, Vo Hoang, Yanhui Liang, Jun Kong and Fusheng Wang: "3DPro: Querying Complex Three-Dimensional Data with Progressive Compression and Refinement". 25th International Conference on Extending Database Technology (EDBT 2022). pp. 104-117, March 29-April 1, 2022. Edinburgh, UK. (CCF B)
+* [TSAS22] Dejun Teng, Yanhui Liang, Hoang Vo, Jun Kong, and Fusheng Wang. "Efficient 3D Spatial Queries for Complex Objects." ACM Transactions on Spatial Algorithms and Systems (TSAS) 8, no. 2 (2022): 1-26.
 * [SIGSPATIAL21] Dejun Teng, Akshay Nehe, Prajeeth Emanuel, Furqan Baig, Jun Kong, and Fusheng Wang. “GPU-based real-time contact tracing at scale.” 29th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (SIGSPATIAL 2021), ACM, pp. 1–10, (24% acceptance rate)
 * [MDM21] Dejun Teng, Furqan Baig, Qiheng Sun, Jun Kong, and Fusheng Wang. "IDEAL: a Vector-Raster Hybrid Model for Efficient Spatial Queries over Complex Polygons." IEEE 22nd International Conference on Mobile Data Management (MDM 2021). IEEE, pp. 99–108, (CCF C, 26% acceptance rate)
 * [DAPD19A] Dejun Teng, Jun Kong, and Fusheng Wang. "Scalable and flexible management of medical image big data." Distributed and Parallel Databases 37, no. 2 (2019): 235-250, (CCF C)
