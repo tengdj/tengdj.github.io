@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "Dr. Dejun Teng"
+title: "aaa"
+excerpt: "ddd"
 author_profile: true
 redirect_from: 
   - /about/
