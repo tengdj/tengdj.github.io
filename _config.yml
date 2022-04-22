@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Dr. Dejun Teng"
   avatar           : "profile.jpg"
-  bio              : "Assistant Professor with Shandong University"
+  bio              : "Assistant Professor"
   location         : "Qingdao, Shandong, China"
-  employer         :
+  employer         : Shandong University
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=9KuUtJcAAAAJ&hl=en"
   email            :  "teng@sdu.edu.cn"
