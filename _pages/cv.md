@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+A full version of my [CV](/files/cv.pdf).
+
 {% include base_path %}
 
 Education
@@ -34,6 +36,20 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Academic Services
 ======
-* 
+* PC chair
+	*VLDB DMAH 2022
+* PC member
+	*VLDB DMAH 2021
+	*APWEB/WAIM 2022 
+* Sub-reviewer
+	*ACM SIGSPATIAL 2019, 2020, 2021
+	*ACM SIGMOD 2021, 2022
+	*IEEE eSCIENCE 2021
+	*IEEE Big Data 2019
+* Manuscript reviewer
+	*ACM Transactions on Database Systems (TODS)
+	*ACM Transactions on Spatial Algorithms and Systems (TSAS)
+	*Springer Distributed and Parallel Databases (DAPD)
+	*Concurrency and Computation: Practice and Experience
