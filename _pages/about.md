@@ -16,7 +16,7 @@ My research interests lie in Big Data, Computer Systems, Spatial Data Management
 
 Education
 ======
-* Ph.D in Computer Science, State University of New York Stony Brook, 2021
+* Ph.D. in Computer Science, The State University of New York (SUNY) at Stony Brook, 2021
 * M.S. in Computer Science, Emory University, 2014
 * B.E. in Software Engineering, Xi'an Jiaotong University, 2012
 
