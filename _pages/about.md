@@ -22,7 +22,7 @@ Education
 
 Research Projects
 ======
-* **3DPro**: Querying Complex Three-dimensional Data with Progressive Compression and Refinement			     
+* **3DPro**: Querying Complex 3D Data with Progressive Compression and Refinement			     
 * **GLINT**: GPU-based Real-time Contact Tracing at Scale  	       
 * **IDEAL**: a Vector-Raster Hybrid Model for Efficient Spatial Queries over Complex Polygons		     
 * **LSbM-tree**: Re-enabling Buffer Caching in Data Management for Mixed Reads and Writes
