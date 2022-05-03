@@ -65,8 +65,8 @@ Academic Services
   * VLDB DMAH 2022
 * PC member
   * VLDB DMAH 2021
-  * APWEB/WAIM 2022 
-* Sub-reviewer
+  * APWEB/WAIM Demo Session 2022 
+* External-reviewer
   * ACM SIGSPATIAL 2019, 2020, 2021
   * ACM SIGMOD 2021, 2022
   * IEEE eSCIENCE 2021
