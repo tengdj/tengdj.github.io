@@ -56,8 +56,8 @@ Teaching
 ======
 * CSE 532: Theory of Database Systems (Stony Brook University), Teaching Assistant, Spring 2020
 * CSE 537: Artificial Intelligence (Stony Brook University), Teaching Assistant, Fall 2019
-* CSE 2111: Modeling and Problem Solving with Spreadsheets and Databases (the Ohio State University), Teaching Assistant, Fall 2015, Fall 2017
-* CSE 5339: Intermediate Studies in Parallel Computing (the Ohio State University), Teaching Assistant, Spring 2015
+* CSE 2111: Modeling and Problem Solving with Spreadsheets and Databases (The Ohio State University), Teaching Assistant, Fall 2015, Fall 2017
+* CSE 5339: Intermediate Studies in Parallel Computing (The Ohio State University), Teaching Assistant, Spring 2015
   
 Academic Services
 ======
