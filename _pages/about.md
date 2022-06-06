@@ -64,11 +64,12 @@ Academic Services
 * PC chair
   * VLDB DMAH 2022
 * PC member
+  * SIGSPATIAL 2022 
   * VLDB DMAH 2021
   * APWEB/WAIM Demo Session 2022 
 * External-reviewer
   * ACM SIGSPATIAL 2019, 2020, 2021
-  * ACM SIGMOD 2021, 2022
+  * ACM SIGMOD 2021, 2022, 2023
   * IEEE eSCIENCE 2021
   * IEEE Big Data 2019
 * Manuscript reviewer
