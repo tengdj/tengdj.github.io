@@ -77,6 +77,7 @@ Academic Services
   * ACM Transactions on Spatial Algorithms and Systems (TSAS)
   * Springer Distributed and Parallel Databases (DAPD)
   * Concurrency and Computation: Practice and Experience
+  * Geo-spatial Information Science
 
 Invited Talks
 =====
