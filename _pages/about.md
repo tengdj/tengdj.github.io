@@ -78,4 +78,12 @@ Academic Services
   * Springer Distributed and Parallel Databases (DAPD)
   * Concurrency and Computation: Practice and Experience
 
+Invited Talks
+=====
+* 2021.10, Efficient Large-Scale Multi-Dimensional Spatial Data Processing, Beihang University
+* 2021.11, The data privacy concerns in big spatial data processing, Zhejiang University
+* 2022.06, Spatial Big Data Management and Beyond, Shandong University IRC
+* 2022.09, Spatial Data Management for Medicine and Healthcare, VLDB DMAH workshop keynote
+
+
 
