@@ -56,8 +56,8 @@ Work Experience
 
 Teaching
 ======
-* SD 013317502: Advanced Programming Language, Lecturer, Spring 2023
-* SD 01231460: Data Structure and Database Technology, Lecturer, Fall 2022 
+* SDU 013317502: Advanced Programming Language, Lecturer, Spring 2023
+* SDU 01231460: Data Structure and Database Technology, Lecturer, Fall 2022 
 * SBU CSE 532: Theory of Database Systems, Teaching Assistant, Spring 2020
 * SBU CSE 537: Artificial Intelligence, Teaching Assistant, Fall 2019
 * OSU CSE 2111: Modeling and Problem Solving with Spreadsheets and Databases, Teaching Assistant, Fall 2015, Fall 2017
@@ -84,10 +84,10 @@ Academic Services
 
 Invited Talks
 =====
-* 2021.10, Efficient Large-Scale Multi-Dimensional Spatial Data Processing, Beihang University
-* 2021.11, The data privacy concerns in big spatial data processing, Zhejiang University
-* 2022.06, Spatial Big Data Management and Beyond, Shandong University IRC
 * 2022.09, Spatial Data Management for Medicine and Healthcare, VLDB DMAH workshop keynote
+* 2022.06, Spatial Big Data Management and Beyond, Shandong University IRC
+* 2021.11, The data privacy concerns in big spatial data processing, Zhejiang University
+* 2021.10, Efficient Large-Scale Multi-Dimensional Spatial Data Processing, Beihang University
 
 
 
