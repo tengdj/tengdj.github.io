@@ -46,7 +46,7 @@ Publications
 * **[ICDCS17]** **Dejun Teng**, Lei Guo, Rubao Lee, Feng Chen, Siyuan Ma, Yanfeng Zhang, and Xiaodong Zhang. [LSbM-tree: Re-enabling buffer caching in data management for mixed reads and writes.](https://ieeexplore.ieee.org/abstract/document/7979956) In 2017 IEEE 37th International Conference on Distributed Computing Systems (ICDCS), pp. 68-79. IEEE, 2017, (CCF B, 18.5% acceptance rate)
 * **[DMAH16]** Vo Hoang, Jun Kong, **Dejun Teng**, Yanhui Liang, Ablimit Aji, George Teodoro, and Fusheng Wang. [Cloud-Based Whole Slide Image Analysis Using MapReduce.](https://link.springer.com/chapter/10.1007/978-3-319-57741-8_5) In VLDB Workshop on Data Management and Analytics for Medicine and Healthcare, pp. 62-77. Springer, Cham, 2016.
 
-Work experience
+Work Experience
 ======
 * 2022.04-present: Assistant Professor at Shandong University, Qingdao, China 
 * 2021.12-2022.04: Algorithm Engineer at Alibaba Inc., Beijing, China
@@ -56,6 +56,8 @@ Work experience
 
 Teaching
 ======
+* SD 013317502: Advanced Programming Language, Lecturer, Spring 2023
+* SD 01231460: Data Structure and Database Technology, Lecturer, Fall 2022 
 * SBU CSE 532: Theory of Database Systems, Teaching Assistant, Spring 2020
 * SBU CSE 537: Artificial Intelligence, Teaching Assistant, Fall 2019
 * OSU CSE 2111: Modeling and Problem Solving with Spreadsheets and Databases, Teaching Assistant, Fall 2015, Fall 2017
