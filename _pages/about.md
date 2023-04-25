@@ -56,6 +56,7 @@ Work Experience
 
 Teaching
 ======
+* SDU 0470043: Big Data Management and Analysis, Lecturer, Spring 2023
 * SDU 013317502: Advanced Programming Language, Lecturer, Spring 2023
 * SDU 01231460: Data Structure and Database Technology, Lecturer, Fall 2022 
 * SBU CSE 532: Theory of Database Systems, Teaching Assistant, Spring 2020
