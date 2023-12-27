@@ -31,6 +31,8 @@ Research Projects
 
 Publications
 ======
+ 
+* **[Geoinformatica23]** **Dejun Teng**, Furqan Baig, Zhaohui Peng, Jun Kong, and Fusheng Wang. [Efficient spatial queries over complex polygons with hybrid representations.](https://link.springer.com/article/10.1007/s10707-023-00508-2) Springer Geoinformatica. Volume 27, Issue 4. (CCF B)
 * **[EDBT22]** **Dejun Teng**, Furqan Baig, Vo Hoang, Yanhui Liang, Jun Kong and Fusheng Wang. [3DPro: Querying Complex Three-Dimensional Data with Progressive Compression and Refinement.](https://openproceedings.org/2022/conf/edbt/paper-24.pdf) 25th International Conference on Extending Database Technology (EDBT 2022). pp. 104-117, March 29-April 1, 2022. Edinburgh, UK. (CCF B)
 * **[TSAS22]** **Dejun Teng**, Yanhui Liang, Hoang Vo, Jun Kong, and Fusheng Wang. [Efficient 3D Spatial Queries for Complex Objects.](https://dl.acm.org/doi/abs/10.1145/3502221) ACM Transactions on Spatial Algorithms and Systems (TSAS) 8, no. 2 (2022): 1-26.
 * **[BigSpatial22]** Lu Chen, **Dejun Teng**, Tian Zhu, Jun Kong, Bruce W. Herr, Andreas Bueckle, Katy Börner, and Fusheng Wang. [Real-time spatial registration for 3D human atlas.](https://dl.acm.org/doi/abs/10.1145/3557917.3567618) In Proceedings of the 10th ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data, pp. 27-35. 2022.
@@ -56,9 +58,10 @@ Work Experience
 
 Teaching
 ======
-* SDU 0470043: Big Data Management and Analysis, Lecturer, Spring 2023
+* SDU 01332230: Database Systems, Lecturer, Fall 2023
+* SDU 0470043: Big Data Management and Analysis, Lecturer, Spring 2023, Sprint 2024
 * SDU 013317502: Advanced Programming Language, Lecturer, Spring 2023
-* SDU 01231460: Data Structure and Database Technology, Lecturer, Fall 2022 
+* SDU 01231460: Data Structure and Database Technology, Lecturer, Fall 2022, Fall 2023
 * SBU CSE 532: Theory of Database Systems, Teaching Assistant, Spring 2020
 * SBU CSE 537: Artificial Intelligence, Teaching Assistant, Fall 2019
 * OSU CSE 2111: Modeling and Problem Solving with Spreadsheets and Databases, Teaching Assistant, Fall 2015, Fall 2017
@@ -69,18 +72,17 @@ Academic Services
 * PC chair
   * VLDB DMAH 2022
 * PC member
-  * SIGSPATIAL 2022 
+  * SIGSPATIAL 2022,2023
   * VLDB DMAH 2021
-  * APWEB/WAIM Demo Session 2022 
+  * APWEB/WAIM 2022,2023
 * External-reviewer
   * ACM SIGSPATIAL 2019, 2020, 2021
-  * ACM SIGMOD 2021, 2022, 2023
+  * ACM SIGMOD 2021, 2022, 2023, 2024
   * IEEE Big Data 2019
 * Manuscript reviewer
   * ACM Transactions on Database Systems (TODS)
   * ACM Transactions on Spatial Algorithms and Systems (TSAS)
   * Springer Distributed and Parallel Databases (DAPD)
-  * Concurrency and Computation: Practice and Experience
   * Geo-spatial Information Science
 
 Invited Talks
