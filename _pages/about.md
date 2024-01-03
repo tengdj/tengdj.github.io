@@ -29,7 +29,7 @@ Research Projects
 * **BMIDB**: Scalable Data Management for Big Medical Imaging Data		 	   
 * **PAIS**: Large Scale Spatial Data Management for Pathology Imaging 
 
-Publications
+Selected Publications
 ======
  
 * **[Geoinformatica23]** **Dejun Teng**, Furqan Baig, Zhaohui Peng, Jun Kong, and Fusheng Wang. [Efficient spatial queries over complex polygons with hybrid representations.](https://link.springer.com/article/10.1007/s10707-023-00508-2) Springer Geoinformatica. Volume 27, Issue 4: 1-39. (CCF B)
