@@ -19,6 +19,15 @@ Education
 * Ph.D. in Computer Science, The State University of New York (SUNY) at Stony Brook, 2021
 * M.S. in Computer Science, Emory University, 2014
 * B.E. in Software Engineering, Xi'an Jiaotong University, 2012
+
+Work Experience
+======
+* 2022.04-present: Assistant Professor at **Shandong University**, Qingdao, China 
+* 2021.12-2022.04: Algorithm Engineer at **Alibaba** Inc., Beijing, China
+* 2018.06-2019.07: Algorithm Engineer at **Huawei** Technologies Co., Ltd., Shenzhen, Guangdong, China
+* 2015.05-2015.08: Software Engineer at **Alibaba** Inc., Seattle, WA, USA
+* 2014.05-2014.08: Software Engineer at **Pitney Bowes** Inc., Shelton, CT, USA
+
 <!--
 Research Projects
 ======
@@ -48,14 +57,6 @@ Selected Publications
 * **[TOS18]** **Dejun Teng**, Lei Guo, Rubao Lee, Feng Chen, Yanfeng Zhang, Siyuan Ma, and Xiaodong Zhang. [A Low-cost Disk Solution Enabling LSM-tree to Achieve High Performance for Mixed Read/Write Workloads.](https://dl.acm.org/doi/abs/10.1145/3162615) ACM Transactions on Storage (TOS) 14, no. 2 (2018): 1-26, (CCF A)
 * **[ICDCS17]** **Dejun Teng**, Lei Guo, Rubao Lee, Feng Chen, Siyuan Ma, Yanfeng Zhang, and Xiaodong Zhang. [LSbM-tree: Re-enabling buffer caching in data management for mixed reads and writes.](https://ieeexplore.ieee.org/abstract/document/7979956) In 2017 IEEE 37th International Conference on Distributed Computing Systems (ICDCS), pp. 68-79. IEEE, 2017, (CCF B)
 <!--* **[DMAH16]** Vo Hoang, Jun Kong, **Dejun Teng**, Yanhui Liang, Ablimit Aji, George Teodoro, and Fusheng Wang. [Cloud-Based Whole Slide Image Analysis Using MapReduce.](https://link.springer.com/chapter/10.1007/978-3-319-57741-8_5) In VLDB Workshop on Data Management and Analytics for Medicine and Healthcare, pp. 62-77. Springer, Cham, 2016.-->
-
-Work Experience
-======
-* 2022.04-present: Assistant Professor at **Shandong University**, Qingdao, China 
-* 2021.12-2022.04: Algorithm Engineer at **Alibaba** Inc., Beijing, China
-* 2018.06-2019.07: Algorithm Engineer at **Huawei** Technologies Co., Ltd., Shenzhen, Guangdong, China
-* 2015.05-2015.08: Software Engineer at **Alibaba** Inc., Seattle, WA, USA
-* 2014.05-2014.08: Software Engineer at **Pitney Bowes** Inc., Shelton, CT, USA
 
 Teaching
 ======
