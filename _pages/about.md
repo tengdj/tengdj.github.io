@@ -19,7 +19,7 @@ Education
 * Ph.D. in Computer Science, The State University of New York (SUNY) at Stony Brook, 2021
 * M.S. in Computer Science, Emory University, 2014
 * B.E. in Software Engineering, Xi'an Jiaotong University, 2012
-
+<!--
 Research Projects
 ======
 * **3DPro**: Querying Complex 3D Data with Progressive Compression and Refinement			     
@@ -28,6 +28,7 @@ Research Projects
 * **LSbM-tree**: Re-enabling Buffer Caching in Data Management for Mixed Reads and Writes
 * **BMIDB**: Scalable Data Management for Big Medical Imaging Data		 	   
 * **PAIS**: Large Scale Spatial Data Management for Pathology Imaging 
+-->
 
 Selected Publications
 ======
