@@ -23,10 +23,10 @@ Education
 Work Experience
 ======
 * 2022.04-present: Assistant Professor at **Shandong University**, Qingdao, China 
-* 2021.12-2022.04: Algorithm Engineer at **Alibaba** Inc., Beijing, China
-* 2018.06-2019.07: Algorithm Engineer at **Huawei** Technologies Co., Ltd., Shenzhen, Guangdong, China
-* 2015.05-2015.08: Software Engineer at **Alibaba** Inc., Seattle, WA, USA
-* 2014.05-2014.08: Software Engineer at **Pitney Bowes** Inc., Shelton, CT, USA
+* 2021.12-2022.04: Algorithm Engineer at **Alibaba**, Beijing, China
+* 2018.06-2019.07: Algorithm Engineer at **Huawei**, Shenzhen, China
+* 2015.05-2015.08: Software Engineer at **Alibaba**, Seattle, WA, USA
+* 2014.05-2014.08: Software Engineer at **Pitney Bowes**, Shelton, CT, USA
 
 <!--
 Research Projects
