@@ -41,7 +41,8 @@ Research Projects
 
 Selected Publications
 ======
- 
+
+* **[VLDB24]** Fusheng Wang, Rubao Lee, **Dejun Teng**, Xiaodong Zhang, Joel Saltz. [High-Performance Spatial Data Analytics: Systematic R&D for Scale-Out and Scale-Up Solutions from the Past to Now.](https://www.vldb.org/pvldb/vol17/p4507-wang.pdf) Springer Geoinformatica. Volume 17, Issue 12: 1-14. (CCF A)
 * **[Geoinformatica23]** **Dejun Teng**, Furqan Baig, Zhaohui Peng, Jun Kong, and Fusheng Wang. [Efficient spatial queries over complex polygons with hybrid representations.](https://link.springer.com/article/10.1007/s10707-023-00508-2) Springer Geoinformatica. Volume 27, Issue 4: 1-39. (CCF B)
 * **[EDBT22]** **Dejun Teng**, Furqan Baig, Vo Hoang, Yanhui Liang, Jun Kong and Fusheng Wang. [3DPro: Querying Complex Three-Dimensional Data with Progressive Compression and Refinement.](https://openproceedings.org/2022/conf/edbt/paper-24.pdf) 25th International Conference on Extending Database Technology (EDBT 2022). pp. 104-117, March 29-April 1, 2022. Edinburgh, UK. (CCF B)
 * **[TSAS22]** **Dejun Teng**, Yanhui Liang, Hoang Vo, Jun Kong, and Fusheng Wang. [Efficient 3D Spatial Queries for Complex Objects.](https://dl.acm.org/doi/abs/10.1145/3502221) ACM Transactions on Spatial Algorithms and Systems (TSAS) 8, no. 2 (2022): 1-26.
