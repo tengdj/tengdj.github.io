@@ -84,13 +84,13 @@ Academic Services
   * Knowledge and Information Systems (KAIS)
   * ACM Transactions on Spatial Algorithms and Systems (TSAS)
   * Springer Distributed and Parallel Databases (DAPD)
+
+<!--  
 * External-reviewer
   * ACM SIGSPATIAL 2019, 2020, 2021
   * ACM SIGMOD 2021, 2022, 2023, 2024
   * EDBT 2023
   * IEEE BigData 2019
-
-<!--  
 Invited Talks
 =====
 * 2022.09, Spatial Data Management for Medicine and Healthcare, VLDB DMAH workshop keynote
