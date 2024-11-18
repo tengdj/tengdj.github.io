@@ -41,7 +41,7 @@ Research Projects
 
 Selected Publications
 ======
-
+* **[2024 BigData]** Zhuohan Xu, **Dejun Teng\***, Zhaohui Peng, Fusheng Wang. [Understanding the Intrinsic Characteristics of Spatial Partitioning in Distributed Spatial Join.](https://tengdj.github.io/) To Appear in Proceedings of the 2024 IEEE International Conference on BigData (IEEE BigData 2024). December 15-18, 2024, Washington DC, USA.
 * **[2024 VLDB]** Fusheng Wang, Rubao Lee, **Dejun Teng**, Xiaodong Zhang, Joel Saltz. [High-Performance Spatial Data Analytics: Systematic R&D for Scale-Out and Scale-Up Solutions from the Past to Now.](https://www.vldb.org/pvldb/vol17/p4507-wang.pdf) VLDB. Volume 17, Issue 12: 1-14. (CCF A)
 * **[2023 Geoinformatica]** **Dejun Teng**, Furqan Baig, Zhaohui Peng, Jun Kong, and Fusheng Wang. [Efficient spatial queries over complex polygons with hybrid representations.](https://link.springer.com/article/10.1007/s10707-023-00508-2) Springer Geoinformatica. Volume 27, Issue 4: 1-39. (CCF B)
 * **[2022 EDBT]** **Dejun Teng**, Furqan Baig, Vo Hoang, Yanhui Liang, Jun Kong and Fusheng Wang. [3DPro: Querying Complex Three-Dimensional Data with Progressive Compression and Refinement.](https://openproceedings.org/2022/conf/edbt/paper-24.pdf) 25th International Conference on Extending Database Technology (EDBT 2022). pp. 104-117, March 29-April 1, 2022. Edinburgh, UK. (CCF B)
