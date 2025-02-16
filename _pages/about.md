@@ -60,13 +60,12 @@ Selected Publications
 <!--* **[DMAH16]** Vo Hoang, Jun Kong, **Dejun Teng**, Yanhui Liang, Ablimit Aji, George Teodoro, and Fusheng Wang. [Cloud-Based Whole Slide Image Analysis Using MapReduce.](https://link.springer.com/chapter/10.1007/978-3-319-57741-8_5) In VLDB Workshop on Data Management and Analytics for Medicine and Healthcare, pp. 62-77. Springer, Cham, 2016.-->
 <!--* **[BigSpatial22]** Lu Chen, **Dejun Teng**, Tian Zhu, Jun Kong, Bruce W. Herr, Andreas Bueckle, Katy Börner, and Fusheng Wang. [Real-time spatial registration for 3D human atlas.](https://dl.acm.org/doi/abs/10.1145/3557917.3567618) In Proceedings of the 10th ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data, pp. 27-35. 2022.-->
 
-Students
+Master Students
 ======
-* Master Students
-  * Jiaqing Song (2024-2027), 3D spatial data management
-  * Minhan Qi (2023-2026), 2D spatial data management
-  * Zhuohan Xu (2023-2026), distributed spatial data processing
-  * Rongkai Xiang (2022-2025), spatial-temporal data management
+* Jiaqing Song (2024-2027), 3D spatial data management
+* Minhan Qi (2023-2026), 2D spatial data management
+* Zhuohan Xu (2023-2026), distributed spatial data processing
+* Rongkai Xiang (2022-2025), spatial-temporal data management
 
 Teaching
 ======
