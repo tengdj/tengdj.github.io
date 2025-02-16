@@ -41,7 +41,7 @@ Research Projects
 
 Selected Publications
 ======
-* **[2024 TKDE]** **Dejun Teng**, Zhaochuan Li, Zhaohui Peng, Shuai Ma, Fusheng Wang. [Efficient and Accurate Spatial Queries Using Lossy Compressed 3D Geometry Data.](https://tengdj.github.io/) IEEE Transactions on Knowledge and Data Engineering (TKDE). In press (CCF A)
+* **[2025 TKDE]** **Dejun Teng**, Zhaochuan Li, Zhaohui Peng, Shuai Ma, Fusheng Wang. [Efficient and Accurate Spatial Queries Using Lossy Compressed 3D Geometry Data.](https://tengdj.github.io/) IEEE Transactions on Knowledge and Data Engineering (TKDE). In press (CCF A)
 * **[2024 BigData]** Zhuohan Xu, **Dejun Teng\***, Zhaohui Peng, Fusheng Wang. [Understanding the Intrinsic Characteristics of Spatial Partitioning in Distributed Spatial Join.](https://ieeexplore.ieee.org/abstract/document/10825846) 2024 IEEE International Conference on BigData (IEEE BigData 2024). pp. 403-412, December 15-18, 2024, Washington DC, USA. (CCF C)
 * **[2024 VLDB]** Fusheng Wang, Rubao Lee, **Dejun Teng**, Xiaodong Zhang, Joel Saltz. [High-Performance Spatial Data Analytics: Systematic R&D for Scale-Out and Scale-Up Solutions from the Past to Now.](https://www.vldb.org/pvldb/vol17/p4507-wang.pdf) VLDB. Volume 17, Issue 12: 1-14. (CCF A)
 * **[2023 Geoinformatica]** **Dejun Teng**, Furqan Baig, Zhaohui Peng, Jun Kong, and Fusheng Wang. [Efficient spatial queries over complex polygons with hybrid representations.](https://link.springer.com/article/10.1007/s10707-023-00508-2) Springer Geoinformatica. Volume 27, Issue 4: 1-39. (CCF B)
