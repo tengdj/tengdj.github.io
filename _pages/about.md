@@ -12,7 +12,7 @@ redirect_from:
 
 I am an Assistant Professor working with the [School of Computer Science and Technology](https://www.cs.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/). I received my Ph.D. degree from the [Computer Science Department](https://www.cs.stonybrook.edu/) at [Stony Brook University, SUNY](https://www.stonybrook.edu/), where I worked in the [Data Management and Biomedical Data Analytics Lab(BMIDB)](http://bmidb.cs.stonybrook.edu/) under the supervision of [Professor Fusheng Wang](https://www3.cs.stonybrook.edu/~fuswang/). I received my M.S. in Computer Science from [Emory University](https://www.cs.emory.edu/home/) and my B.E. in Software Engineering from [Xi'an Jiaotong University](http://se.xjtu.edu.cn/). A full version of my CV can be found [here](/files/cv.pdf).
 
-My research interests lie in Big Data Systems, Spatial-Temporal Data Management Systems, and Geographic Information Systems (GIS). **I am looking for self-motivated Master's students. If you are interested in playing with big spatial data at a billion, even trillion scales, please drop me an email with your resume attached.**       	   
+My research interests lie in **Spatial Data Management Systems (2D or 3D) and Vector Data Management Systems (3<sup>+</sup>D)**. **I am looking for self-motivated Master's students. If you are interested in playing with high dimensional data at a billion, even trillion scales, please drop me an email with your resume attached.**       	   
 
 Education
 ======
@@ -30,8 +30,8 @@ Work Experience
 
 Research Projects
 ======
-* Query Optimization for 3D Spatial Data Based on Multi-Precision Representation Models, National Natural Science Foundation of China (NSFC) Young Scientists Fund (Category C), RMB 300,000, Principal Investigator, Jan. 2025 – Dec. 2027.
-* Multi-source Fusion for Accurate Perception and Recommendation Based on Spatio-temporal Adjoint Techniques and Its Applications, Industry-funded Research Project, RMB 900,000, Principal Investigator, Aug. 2023 – Aug. 2026.
+* **Query Optimization for 3D Spatial Data Based on Multi-Precision Representation Models**, National Natural Science Foundation of China (**NSFC**) Young Scientists Fund (Category C), RMB 300,000, Principal Investigator, Jan. 2025 – Dec. 2027.
+* **Multi-source Fusion for Accurate Perception and Recommendation Based on Spatio-temporal Adjoint Techniques and Its Applications**, Industry-funded Research Project, RMB 900,000, Principal Investigator, Aug. 2023 – Aug. 2026.
 
 <!--
 Research Projects
