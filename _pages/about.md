@@ -16,9 +16,9 @@ My research interests lie in **Spatial Data Management Systems (2D or 3D) and Ve
 
 Education
 ======
-* Ph.D. in Computer Science, The State University of New York (SUNY) at Stony Brook, 2021
-* M.S. in Computer Science, Emory University, 2014
-* B.E. in Software Engineering, Xi'an Jiaotong University, 2012
+* Ph.D. in Computer Science, **The State University of New York (SUNY) at Stony Brook**, 2021
+* M.S. in Computer Science, **Emory University**, 2014
+* B.E. in Software Engineering, **Xi'an Jiaotong University**, 2012
 
 Work Experience
 ======
@@ -46,7 +46,7 @@ Research Projects
 
 Selected Publications
 ======
-* **[2025 ICDM]** Wang, Yining, Ke Li, Fujun Han, Shuhan Liu, Xuan Hou, **Dejun Teng**, and Zhaohui Peng. "Class-Aware Spatio-Temporal Graph Contrastive Learning for Multivariate Time Series Data." In 2025 IEEE International Conference on Data Mining (ICDM), pp. 1576-1584. IEEE, 2025. (CCF B)
+* **[2025 ICDM]** Wang, Yining, Ke Li, Fujun Han, Shuhan Liu, Xuan Hou, **Dejun Teng**, and Zhaohui Peng. Class-Aware Spatio-Temporal Graph Contrastive Learning for Multivariate Time Series Data. In 2025 IEEE International Conference on Data Mining (ICDM), pp. 1576-1584. IEEE, 2025. (CCF B)
 * **[2025 TKDE]** **Dejun Teng**, Zhaochuan Li, Zhaohui Peng, Shuai Ma, Fusheng Wang. [Efficient and Accurate Spatial Queries Using Lossy Compressed 3D Geometry Data.](https://ieeexplore.ieee.org/abstract/document/10904918) IEEE Transactions on Knowledge and Data Engineering (TKDE). Volume 37, Issue 5: 2472 - 2487. (CCF A)
 * **[2024 BigData]** Zhuohan Xu, **Dejun Teng\***, Zhaohui Peng, Fusheng Wang. [Understanding the Intrinsic Characteristics of Spatial Partitioning in Distributed Spatial Join.](https://ieeexplore.ieee.org/abstract/document/10825846) 2024 IEEE International Conference on BigData (IEEE BigData 2024). pp. 403-412, December 15-18, 2024, Washington DC, USA. (CCF C)
 * **[2024 VLDB]** Fusheng Wang, Rubao Lee, **Dejun Teng**, Xiaodong Zhang, Joel Saltz. [High-Performance Spatial Data Analytics: Systematic R&D for Scale-Out and Scale-Up Solutions from the Past to Now.](https://www.vldb.org/pvldb/vol17/p4507-wang.pdf) VLDB. Volume 17, Issue 12: 1-14. (CCF A)
