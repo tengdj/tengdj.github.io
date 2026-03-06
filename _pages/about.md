@@ -30,8 +30,8 @@ Work Experience
 
 Research Projects
 ======
-* **基于多精度表示模型的三维空间数据查询优化**, 国家自然科学基金委青年项目（C类），30万元，主持，2025.01-2027.12		     
-* **基于时空伴随的多源融合精准感知与推荐技术及应用**，企业横向项目，90万元，主持，2023.08-2026.08   
+* Query Optimization for 3D Spatial Data Based on Multi-Precision Representation Models, National Natural Science Foundation of China (NSFC) Young Scientists Fund (Category C), RMB 300,000, Principal Investigator, Jan. 2025 – Dec. 2027.
+* Multi-source Fusion for Accurate Perception and Recommendation Based on Spatio-temporal Adjoint Techniques and Its Applications, Industry-funded Research Project, RMB 900,000, Principal Investigator, Aug. 2023 – Aug. 2026.
 
 <!--
 Research Projects
