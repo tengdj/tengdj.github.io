@@ -28,6 +28,11 @@ Work Experience
 * 2015.05-2015.08: Software Engineer at **Alibaba**, Seattle, WA, USA
 * 2014.05-2014.08: Software Engineer at **Pitney Bowes**, Shelton, CT, USA
 
+Research Projects
+======
+* **基于多精度表示模型的三维空间数据查询优化**, 国家自然科学基金委青年项目（C类），30万元，主持，2025.01-2027.12		     
+* **基于时空伴随的多源融合精准感知与推荐技术及应用**，企业横向项目，90万元，主持，2023.08-2026.08   
+
 <!--
 Research Projects
 ======
@@ -41,7 +46,8 @@ Research Projects
 
 Selected Publications
 ======
-* **[2025 TKDE]** **Dejun Teng**, Zhaochuan Li, Zhaohui Peng, Shuai Ma, Fusheng Wang. [Efficient and Accurate Spatial Queries Using Lossy Compressed 3D Geometry Data.](https://ieeexplore.ieee.org/abstract/document/10904918) IEEE Transactions on Knowledge and Data Engineering (TKDE). In press (CCF A)
+* **[2025 ICDM]** Wang, Yining, Ke Li, Fujun Han, Shuhan Liu, Xuan Hou, **Dejun Teng**, and Zhaohui Peng. "Class-Aware Spatio-Temporal Graph Contrastive Learning for Multivariate Time Series Data." In 2025 IEEE International Conference on Data Mining (ICDM), pp. 1576-1584. IEEE, 2025. (CCF B)
+* **[2025 TKDE]** **Dejun Teng**, Zhaochuan Li, Zhaohui Peng, Shuai Ma, Fusheng Wang. [Efficient and Accurate Spatial Queries Using Lossy Compressed 3D Geometry Data.](https://ieeexplore.ieee.org/abstract/document/10904918) IEEE Transactions on Knowledge and Data Engineering (TKDE). Volume 37, Issue 5: 2472 - 2487. (CCF A)
 * **[2024 BigData]** Zhuohan Xu, **Dejun Teng\***, Zhaohui Peng, Fusheng Wang. [Understanding the Intrinsic Characteristics of Spatial Partitioning in Distributed Spatial Join.](https://ieeexplore.ieee.org/abstract/document/10825846) 2024 IEEE International Conference on BigData (IEEE BigData 2024). pp. 403-412, December 15-18, 2024, Washington DC, USA. (CCF C)
 * **[2024 VLDB]** Fusheng Wang, Rubao Lee, **Dejun Teng**, Xiaodong Zhang, Joel Saltz. [High-Performance Spatial Data Analytics: Systematic R&D for Scale-Out and Scale-Up Solutions from the Past to Now.](https://www.vldb.org/pvldb/vol17/p4507-wang.pdf) VLDB. Volume 17, Issue 12: 1-14. (CCF A)
 * **[2023 Geoinformatica]** **Dejun Teng**, Furqan Baig, Zhaohui Peng, Jun Kong, and Fusheng Wang. [Efficient spatial queries over complex polygons with hybrid representations.](https://link.springer.com/article/10.1007/s10707-023-00508-2) Springer Geoinformatica. Volume 27, Issue 4: 1-39. (CCF B)
