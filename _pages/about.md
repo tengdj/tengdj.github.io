@@ -89,13 +89,14 @@ Academic Services
 * PC chair
   * VLDB DMAH 2022
 * PC member
+  * IEEE BIBM 2026 (Web Chair)
   * IEEE ICDM 2025 (Web Chair)
-  * ACM SIGSPATIAL 2022,2023,2024 (Publicity co-Chair)
+  * ACM SIGSPATIAL 2022,2023,2024 (Publicity co-Chair),2025,2026 (Publicity co-Chair)
   * IEEE BigData 2024 (Web Chair)
   * APWEB/WAIM 2022,2023,2024
 * Journal reviewer
   * ACM Transactions on Database Systems (TODS)
-  * The International Journal on Very Large Data Bases (VLDBJ)
+  * The International Journal on Very Large Databases (VLDBJ)
   * Knowledge and Information Systems (KAIS)
   * ACM Transactions on Spatial Algorithms and Systems (TSAS)
   * Springer Distributed and Parallel Databases (DAPD)
